@@ -1,0 +1,7 @@
+Mean Accuracy at C = 2 ^ (-5) is: 60.487088703205394
+Mean Accuracy at C = 2 ^ (-3) is: 62.63881414341689
+Mean Accuracy at C = 2 ^ (-1) is: 55.61726384364821
+Mean Accuracy at C = 2 ^ (0) is: 60.138743331917105
+Mean Accuracy at C = 2 ^ (1) is: 52.66114336968324
+Mean Accuracy at C = 2 ^ (3) is: 47.273544823679366
+Mean Accuracy at C = 2 ^ (5) is: 38.621984610300714
